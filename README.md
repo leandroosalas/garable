@@ -1,7 +1,7 @@
 garable
 =======
 
-NodeJS application to open your garage door using Bluetooth LE and Raspberry PI.
+Node.JS application to open your garage door using Bluetooth LE and Raspberry PI.
 
 ## Usage
 
