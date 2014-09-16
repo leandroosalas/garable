@@ -1,0 +1,20 @@
+{
+  "name": "Garable",
+  "version": "0.0.1",
+  "description": "Node.js application to open your garage door over Bluetooth LE with RaspberryPI",
+  "scripts": {
+    "start": "node garable.js"
+  },
+  "dependencies": {
+     "async": "latest",
+    "pi-gpio": "git://github.com/brentnycum/pi-gpio.git"
+  },
+  "author": {
+    "name": "Leandro Salas",
+    "email": "salas13@hotmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/leandroosalas/garable.git"
+  }
+}
