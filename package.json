@@ -7,7 +7,8 @@
   },
   "dependencies": {
      "async": "latest",
-    "pi-gpio": "git://github.com/brentnycum/pi-gpio.git"
+    "pi-gpio": "git://github.com/brentnycum/pi-gpio.git",
+    "bleno": "latest"
   },
   "author": {
     "name": "Leandro Salas",
